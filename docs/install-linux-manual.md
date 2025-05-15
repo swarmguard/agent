@@ -1,5 +1,5 @@
-# Manual Install Guide for linux
-The manual install guide explains the steps to install SwarmGuard binaries manually. Basic technical knowledge and administrator access to the target system is needed. If you are looking for the standard industrial setup guide or the setup guide for industrial app stores, please follow the [industrial setup guide](https://swarmguard.com/industrial/setup). 
+# Linux Manual Setup Guide
+The manual setup guide explains the steps to install SwarmGuard binaries manually. Basic technical knowledge and administrator access to the target system is needed. If you are looking for the standard industrial setup guide or the setup guide for industrial app stores, please follow the [industrial setup guide](https://swarmguard.com/industrial/setup). 
 
 ### Sign up and download the app
 - [Sign up](https://swarmguard.io/industrial/sign-up/) for a SwarmGuard account.
